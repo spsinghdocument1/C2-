@@ -1,0 +1,18 @@
+..\..\..\..\usr\src\boost_1_58_0\stage\lib\libboost_thread.so
+..\..\..\..\usr\src\boost_1_58_0\stage\lib\libboost_thread.so
+..\..\..\..\usr\src\boost_1_58_0\stage\lib\libboost_thread.so
+
+
+===========================
+
+
+====================  Project ==build option==Debug-LHS   ===LinKer settings ===Add
+
+..\..\..\..\..\usr\src\boost_1_58_0\stage\lib\libboost_system.so
+..\..\..\..\..\usr\src\boost_1_58_0\stage\lib\libboost_thread.so
+..\..\..\..\..\usr\local\lib\libnanomsg.so
+
+
+
+=====================  Project ==build option==Debug-LHS   ======== Search diectories==Compiler
+..\..\..\..\..\usr\local\lib\libnanomsg.so
